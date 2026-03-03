@@ -16,11 +16,7 @@
 
 ## Steam好友列表
 | Avatar                                                                            | Name                             | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
-|:----------------------------------------------------------------------------------|:---------------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d.jpg) | Sigelor                          | [76561198315038444](https://steamcommunity.com/profiles/76561198315038444/) | ❌           | 2022-08-13 14:20:54 | 2026-02-02 10:50:50 |          |
-| ![](https://avatars.steamstatic.com/c618ea78c236b3e9ef865e7b488567fee5e7ee15.jpg) | RSG.1                            | [76561199031020068](https://steamcommunity.com/profiles/76561199031020068/) | ❌           | 2024-07-18 10:45:37 | 2025-12-31 19:14:13 |          |
-| ![](https://avatars.steamstatic.com/298b0b2f5aa093b14a09ac96a4e5b7b0d87245ca.jpg) | 哈哈哈_我最NB                         | [76561199213111676](https://steamcommunity.com/profiles/76561199213111676/) | ❌           | 2024-12-23 04:58:29 | 2025-10-21 09:57:57 |          |
-| ![](https://avatars.steamstatic.com/4277077ad12ad2042b88f486c12c5e658b88c612.jpg) | 整点薯条                             | [76561198335087430](https://steamcommunity.com/profiles/76561198335087430/) | ❌           | 2021-10-10 08:23:45 | 2025-09-27 20:40:06 |          |
+
 | ![](https://avatars.steamstatic.com/1191c81a57194f64acfcda94f0fd0cb94e92eff7.jpg) | 是呜桑不是ウさん                         | [76561198984469196](https://steamcommunity.com/profiles/76561198984469196/) | ✅           | 2025-03-18 08:20:48 |                     |          |
 | ![](https://avatars.steamstatic.com/bcc6065801e928576a6440e06ef8769030e08de9.jpg) | 🎃                                | [76561199179792103](https://steamcommunity.com/profiles/76561199179792103/) | ✅           | 2022-12-18 09:28:16 |                     |          |
 | ![](https://avatars.steamstatic.com/96f47b89f649ec344d9394f453d5de6b985361d5.jpg) | 陌月星辉                             | [76561199213926652](https://steamcommunity.com/profiles/76561199213926652/) | ✅           | 2024-10-10 14:42:14 |                     |          |
